@@ -1,37 +1,37 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 23677,
-    "open_issues_count": 252,
-    "forks_count": 451
+    "stargazers_count": 25211,
+    "open_issues_count": 266,
+    "forks_count": 494
   },
   {
     "full_name": "reg-viz/reg-suit",
-    "stargazers_count": 896,
+    "stargazers_count": 897,
     "open_issues_count": 50,
     "forks_count": 73
   },
   {
     "full_name": "tajo/ladle",
-    "stargazers_count": 1446,
-    "open_issues_count": 20,
+    "stargazers_count": 1453,
+    "open_issues_count": 17,
     "forks_count": 31
   },
   {
     "full_name": "faker-js/faker",
-    "stargazers_count": 6594,
-    "open_issues_count": 110,
-    "forks_count": 537
+    "stargazers_count": 6623,
+    "open_issues_count": 113,
+    "forks_count": 542
   },
   {
     "full_name": "rainbow-me/rainbowkit",
-    "stargazers_count": 843,
+    "stargazers_count": 850,
     "open_issues_count": 15,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "ericclemmons/click-to-component",
-    "stargazers_count": 1207,
+    "stargazers_count": 1209,
     "open_issues_count": 20,
     "forks_count": 35
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "supabase-community/auth-helpers",
-    "stargazers_count": 255,
-    "open_issues_count": 20,
-    "forks_count": 41
+    "stargazers_count": 263,
+    "open_issues_count": 22,
+    "forks_count": 40
   },
   {
     "full_name": "contentlayerdev/contentlayer",
-    "stargazers_count": 1086,
-    "open_issues_count": 97,
-    "forks_count": 68
+    "stargazers_count": 1094,
+    "open_issues_count": 98,
+    "forks_count": 69
   },
   {
     "full_name": "gavinmn/obsidian-HIG",
@@ -91,49 +91,49 @@
   },
   {
     "full_name": "Anarios/return-youtube-dislike",
-    "stargazers_count": 9614,
-    "open_issues_count": 145,
-    "forks_count": 422
+    "stargazers_count": 9621,
+    "open_issues_count": 147,
+    "forks_count": 423
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 17959,
-    "open_issues_count": 303,
-    "forks_count": 1410
+    "stargazers_count": 17999,
+    "open_issues_count": 300,
+    "forks_count": 1411
   },
   {
     "full_name": "ivanhofer/typesafe-i18n",
-    "stargazers_count": 960,
+    "stargazers_count": 961,
     "open_issues_count": 2,
     "forks_count": 31
   },
   {
     "full_name": "rauchg/wifi-password",
-    "stargazers_count": 4066,
+    "stargazers_count": 4070,
     "open_issues_count": 19,
     "forks_count": 231
   },
   {
     "full_name": "csswizardry/ct",
-    "stargazers_count": 1699,
+    "stargazers_count": 1700,
     "open_issues_count": 5,
     "forks_count": 38
   },
   {
     "full_name": "pacocoursey/writer",
-    "stargazers_count": 267,
+    "stargazers_count": 268,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 606,
+    "stargazers_count": 607,
     "open_issues_count": 6,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "jameslittle230/stork",
-    "stargazers_count": 2327,
+    "stargazers_count": 2331,
     "open_issues_count": 40,
     "forks_count": 40
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "lukeed/uvu",
-    "stargazers_count": 2482,
+    "stargazers_count": 2485,
     "open_issues_count": 63,
     "forks_count": 83
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 12907,
+    "stargazers_count": 12940,
     "open_issues_count": 120,
-    "forks_count": 674
+    "forks_count": 677
   }
 ]
