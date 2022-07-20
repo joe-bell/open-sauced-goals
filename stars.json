@@ -1,37 +1,37 @@
 [
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 26934,
-    "open_issues_count": 280,
-    "forks_count": 546
+    "stargazers_count": 27316,
+    "open_issues_count": 284,
+    "forks_count": 557
   },
   {
     "full_name": "reg-viz/reg-suit",
-    "stargazers_count": 897,
+    "stargazers_count": 898,
     "open_issues_count": 50,
     "forks_count": 73
   },
   {
     "full_name": "tajo/ladle",
-    "stargazers_count": 1480,
-    "open_issues_count": 17,
+    "stargazers_count": 1493,
+    "open_issues_count": 16,
     "forks_count": 31
   },
   {
     "full_name": "faker-js/faker",
-    "stargazers_count": 6669,
-    "open_issues_count": 120,
-    "forks_count": 544
+    "stargazers_count": 6686,
+    "open_issues_count": 116,
+    "forks_count": 545
   },
   {
     "full_name": "rainbow-me/rainbowkit",
-    "stargazers_count": 856,
-    "open_issues_count": 17,
+    "stargazers_count": 858,
+    "open_issues_count": 13,
     "forks_count": 81
   },
   {
     "full_name": "ericclemmons/click-to-component",
-    "stargazers_count": 1214,
+    "stargazers_count": 1215,
     "open_issues_count": 20,
     "forks_count": 35
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "antfu/case-police",
-    "stargazers_count": 825,
+    "stargazers_count": 826,
     "open_issues_count": 2,
     "forks_count": 69
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "supabase-community/auth-helpers",
-    "stargazers_count": 268,
+    "stargazers_count": 271,
     "open_issues_count": 23,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "contentlayerdev/contentlayer",
-    "stargazers_count": 1110,
+    "stargazers_count": 1111,
     "open_issues_count": 98,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "gavinmn/obsidian-HIG",
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "Anarios/return-youtube-dislike",
-    "stargazers_count": 9637,
-    "open_issues_count": 146,
+    "stargazers_count": 9642,
+    "open_issues_count": 117,
     "forks_count": 421
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 18151,
+    "stargazers_count": 18189,
     "open_issues_count": 312,
-    "forks_count": 1427
+    "forks_count": 1430
   },
   {
     "full_name": "ivanhofer/typesafe-i18n",
-    "stargazers_count": 983,
-    "open_issues_count": 9,
+    "stargazers_count": 986,
+    "open_issues_count": 2,
     "forks_count": 31
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "pacocoursey/writer",
-    "stargazers_count": 270,
+    "stargazers_count": 269,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 610,
+    "stargazers_count": 611,
     "open_issues_count": 6,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "jameslittle230/stork",
-    "stargazers_count": 2369,
-    "open_issues_count": 40,
+    "stargazers_count": 2371,
+    "open_issues_count": 41,
     "forks_count": 40
   },
   {
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "lukeed/uvu",
-    "stargazers_count": 2489,
+    "stargazers_count": 2492,
     "open_issues_count": 63,
     "forks_count": 84
   },
   {
     "full_name": "coingaming/moon-design",
     "stargazers_count": 98,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 10
   },
   {
     "full_name": "heybereket/oasis",
-    "stargazers_count": 242,
+    "stargazers_count": 241,
     "open_issues_count": 27,
     "forks_count": 58
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 12991,
-    "open_issues_count": 124,
-    "forks_count": 683
+    "stargazers_count": 13002,
+    "open_issues_count": 118,
+    "forks_count": 682
   }
 ]
