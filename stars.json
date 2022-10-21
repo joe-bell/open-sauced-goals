@@ -1,51 +1,51 @@
 [
   {
     "full_name": "simeydotme/pokemon-cards-css",
-    "stargazers_count": 159,
+    "stargazers_count": 542,
     "open_issues_count": 0,
-    "forks_count": 24
+    "forks_count": 58
   },
   {
     "full_name": "lirantal/lockfile-lint",
-    "stargazers_count": 687,
+    "stargazers_count": 689,
     "open_issues_count": 9,
     "forks_count": 33
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 4432,
-    "open_issues_count": 34,
-    "forks_count": 53
+    "stargazers_count": 4691,
+    "open_issues_count": 37,
+    "forks_count": 60
   },
   {
     "full_name": "pacocoursey/next-themes",
-    "stargazers_count": 2298,
+    "stargazers_count": 2315,
     "open_issues_count": 12,
     "forks_count": 83
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 3338,
-    "open_issues_count": 17,
-    "forks_count": 136
+    "stargazers_count": 3395,
+    "open_issues_count": 16,
+    "forks_count": 139
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 8165,
+    "stargazers_count": 8195,
     "open_issues_count": 68,
-    "forks_count": 226
+    "forks_count": 229
   },
   {
     "full_name": "willofindie/vscode-cssvar",
-    "stargazers_count": 116,
+    "stargazers_count": 118,
     "open_issues_count": 10,
     "forks_count": 6
   },
   {
     "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
-    "stargazers_count": 5653,
+    "stargazers_count": 5730,
     "open_issues_count": 156,
-    "forks_count": 194
+    "forks_count": 201
   },
   {
     "full_name": "markdalgleish/astro-vanilla-extract-demo",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "preactjs/signals",
-    "stargazers_count": 1371,
-    "open_issues_count": 26,
-    "forks_count": 34
+    "stargazers_count": 1384,
+    "open_issues_count": 28,
+    "forks_count": 33
   },
   {
     "full_name": "joe-bell/tenprinciples.design",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "trivago/prettier-plugin-sort-imports",
-    "stargazers_count": 1432,
-    "open_issues_count": 45,
+    "stargazers_count": 1441,
+    "open_issues_count": 43,
     "forks_count": 67
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 4348,
+    "stargazers_count": 4376,
     "open_issues_count": 9,
     "forks_count": 85
   },
@@ -91,39 +91,39 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 35176,
-    "open_issues_count": 404,
-    "forks_count": 822
+    "stargazers_count": 35322,
+    "open_issues_count": 406,
+    "forks_count": 831
   },
   {
     "full_name": "reg-viz/reg-suit",
-    "stargazers_count": 937,
-    "open_issues_count": 52,
-    "forks_count": 77
+    "stargazers_count": 939,
+    "open_issues_count": 53,
+    "forks_count": 78
   },
   {
     "full_name": "tajo/ladle",
-    "stargazers_count": 1773,
+    "stargazers_count": 1780,
     "open_issues_count": 24,
     "forks_count": 40
   },
   {
     "full_name": "faker-js/faker",
-    "stargazers_count": 7747,
-    "open_issues_count": 119,
-    "forks_count": 598
+    "stargazers_count": 7792,
+    "open_issues_count": 120,
+    "forks_count": 601
   },
   {
     "full_name": "rainbow-me/rainbowkit",
-    "stargazers_count": 1260,
-    "open_issues_count": 27,
-    "forks_count": 189
+    "stargazers_count": 1278,
+    "open_issues_count": 31,
+    "forks_count": 196
   },
   {
     "full_name": "ericclemmons/click-to-component",
-    "stargazers_count": 1299,
+    "stargazers_count": 1302,
     "open_issues_count": 26,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "Anish-Agnihotri/GateRepo",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 552,
+    "stargazers_count": 654,
     "open_issues_count": 2,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "antfu/case-police",
-    "stargazers_count": 944,
+    "stargazers_count": 943,
     "open_issues_count": 4,
     "forks_count": 75
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "supabase/auth-helpers",
-    "stargazers_count": 399,
-    "open_issues_count": 36,
-    "forks_count": 101
+    "stargazers_count": 404,
+    "open_issues_count": 31,
+    "forks_count": 103
   },
   {
     "full_name": "contentlayerdev/contentlayer",
-    "stargazers_count": 1305,
+    "stargazers_count": 1310,
     "open_issues_count": 100,
-    "forks_count": 85
+    "forks_count": 86
   },
   {
     "full_name": "gavinmn/obsidian-HIG",
