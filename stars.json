@@ -1,9 +1,9 @@
 [
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 1934,
-    "open_issues_count": 52,
-    "forks_count": 159
+    "stargazers_count": 1962,
+    "open_issues_count": 60,
+    "forks_count": 163
   },
   {
     "full_name": "Sliov/cva-tailwind-variants-benchmark",
@@ -13,69 +13,69 @@
   },
   {
     "full_name": "CloudCannon/pagefind",
-    "stargazers_count": 1493,
-    "open_issues_count": 61,
-    "forks_count": 49
+    "stargazers_count": 1720,
+    "open_issues_count": 69,
+    "forks_count": 54
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 14656,
-    "open_issues_count": 355,
-    "forks_count": 451
+    "stargazers_count": 14836,
+    "open_issues_count": 361,
+    "forks_count": 455
   },
   {
     "full_name": "ertekinno/libre-caslon-condensed",
-    "stargazers_count": 419,
+    "stargazers_count": 420,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "petykowski/London-Underground-Dot-Matrix-Typeface",
-    "stargazers_count": 1447,
+    "stargazers_count": 1448,
     "open_issues_count": 1,
     "forks_count": 19
   },
   {
     "full_name": "evanw/thumbhash",
-    "stargazers_count": 2962,
+    "stargazers_count": 2969,
     "open_issues_count": 9,
     "forks_count": 50
   },
   {
     "full_name": "storyblok/storyblok-astro",
     "stargazers_count": 73,
-    "open_issues_count": 9,
+    "open_issues_count": 12,
     "forks_count": 17
   },
   {
     "full_name": "partykit/partykit",
-    "stargazers_count": 2663,
+    "stargazers_count": 2688,
     "open_issues_count": 42,
     "forks_count": 53
   },
   {
     "full_name": "whoiskatrin/npm-copilot",
-    "stargazers_count": 319,
+    "stargazers_count": 320,
     "open_issues_count": 1,
     "forks_count": 16
   },
   {
     "full_name": "vshymanskyy/StandWithUkraine",
-    "stargazers_count": 1285,
+    "stargazers_count": 1287,
     "open_issues_count": 32,
     "forks_count": 281
   },
   {
     "full_name": "natemoo-re/micromorph",
-    "stargazers_count": 299,
+    "stargazers_count": 301,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 3668,
-    "open_issues_count": 1,
-    "forks_count": 80
+    "stargazers_count": 3755,
+    "open_issues_count": 0,
+    "forks_count": 83
   },
   {
     "full_name": "blackflux/lambda-rate-limiter",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 4072,
+    "stargazers_count": 4088,
     "open_issues_count": 47,
     "forks_count": 61
   },
   {
     "full_name": "Nutlope/restorePhotos",
-    "stargazers_count": 3247,
-    "open_issues_count": 13,
-    "forks_count": 461
+    "stargazers_count": 3253,
+    "open_issues_count": 14,
+    "forks_count": 463
   },
   {
     "full_name": "styfle/links-awakening",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "shuding/react-wrap-balancer",
-    "stargazers_count": 3571,
+    "stargazers_count": 3579,
     "open_issues_count": 9,
     "forks_count": 59
   },
   {
     "full_name": "natemoo-re/astro-icon",
-    "stargazers_count": 627,
-    "open_issues_count": 25,
-    "forks_count": 41
+    "stargazers_count": 630,
+    "open_issues_count": 26,
+    "forks_count": 42
   },
   {
     "full_name": "tnarla/nextjs-conf",
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 4177,
-    "open_issues_count": 2,
+    "stargazers_count": 4198,
+    "open_issues_count": 1,
     "forks_count": 89
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 15086,
-    "open_issues_count": 128,
-    "forks_count": 1901
+    "stargazers_count": 15174,
+    "open_issues_count": 134,
+    "forks_count": 1918
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 5266,
-    "open_issues_count": 71,
+    "stargazers_count": 5272,
+    "open_issues_count": 72,
     "forks_count": 166
   },
   {
     "full_name": "vercel/turbo",
-    "stargazers_count": 22804,
-    "open_issues_count": 498,
-    "forks_count": 1534
+    "stargazers_count": 22837,
+    "open_issues_count": 503,
+    "forks_count": 1538
   },
   {
     "full_name": "simeydotme/pokemon-cards-css",
-    "stargazers_count": 4111,
+    "stargazers_count": 4120,
     "open_issues_count": 5,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "lirantal/lockfile-lint",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 8803,
-    "open_issues_count": 63,
+    "stargazers_count": 8822,
+    "open_issues_count": 60,
     "forks_count": 190
   },
   {
     "full_name": "pacocoursey/next-themes",
-    "stargazers_count": 3563,
-    "open_issues_count": 41,
+    "stargazers_count": 3575,
+    "open_issues_count": 43,
     "forks_count": 137
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 11805,
-    "open_issues_count": 46,
-    "forks_count": 957
+    "stargazers_count": 11970,
+    "open_issues_count": 49,
+    "forks_count": 969
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 9724,
-    "open_issues_count": 91,
+    "stargazers_count": 9734,
+    "open_issues_count": 93,
     "forks_count": 304
   }
 ]
