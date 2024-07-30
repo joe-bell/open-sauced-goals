@@ -1,14 +1,14 @@
 [
   {
     "full_name": "natelindev/tsdav",
-    "stargazers_count": 214,
-    "open_issues_count": 17,
+    "stargazers_count": 215,
+    "open_issues_count": 18,
     "forks_count": 33
   },
   {
     "full_name": "rohitdhas/shittier",
-    "stargazers_count": 1579,
-    "open_issues_count": 26,
+    "stargazers_count": 1581,
+    "open_issues_count": 25,
     "forks_count": 26
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 28862,
-    "open_issues_count": 8,
-    "forks_count": 2191
+    "stargazers_count": 28920,
+    "open_issues_count": 15,
+    "forks_count": 2197
   },
   {
     "full_name": "brandonmcconnell/tailwindcss-signals",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "motiondivision/motionone",
-    "stargazers_count": 2677,
+    "stargazers_count": 2683,
     "open_issues_count": 66,
     "forks_count": 50
   },
   {
     "full_name": "bholmesdev/simple-stack",
-    "stargazers_count": 250,
-    "open_issues_count": 2,
+    "stargazers_count": 261,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "Nutlope/nsfw-filter",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 4242,
+    "stargazers_count": 4264,
     "open_issues_count": 24,
-    "forks_count": 458
+    "forks_count": 462
   },
   {
     "full_name": "Sliov/cva-tailwind-variants-benchmark",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "CloudCannon/pagefind",
-    "stargazers_count": 3262,
-    "open_issues_count": 137,
-    "forks_count": 97
+    "stargazers_count": 3277,
+    "open_issues_count": 138,
+    "forks_count": 98
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 19038,
+    "stargazers_count": 19289,
     "open_issues_count": 535,
-    "forks_count": 585
+    "forks_count": 598
   },
   {
     "full_name": "ertekinno/libre-caslon-condensed",
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "petykowski/London-Underground-Dot-Matrix-Typeface",
-    "stargazers_count": 1515,
+    "stargazers_count": 1514,
     "open_issues_count": 2,
     "forks_count": 19
   },
   {
     "full_name": "evanw/thumbhash",
-    "stargazers_count": 3326,
+    "stargazers_count": 3328,
     "open_issues_count": 16,
     "forks_count": 59
   },
   {
     "full_name": "storyblok/storyblok-astro",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 13,
     "forks_count": 28
   },
   {
     "full_name": "partykit/partykit",
-    "stargazers_count": 4393,
-    "open_issues_count": 68,
-    "forks_count": 149
+    "stargazers_count": 4414,
+    "open_issues_count": 69,
+    "forks_count": 148
   },
   {
     "full_name": "whoiskatrin/npm-copilot",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "vshymanskyy/StandWithUkraine",
-    "stargazers_count": 1386,
+    "stargazers_count": 1385,
     "open_issues_count": 31,
     "forks_count": 280
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 7929,
-    "open_issues_count": 68,
+    "stargazers_count": 7945,
+    "open_issues_count": 69,
     "forks_count": 243
   },
   {
     "full_name": "blackflux/lambda-rate-limiter",
-    "stargazers_count": 58,
+    "stargazers_count": 57,
     "open_issues_count": 15,
     "forks_count": 4
   },
   {
     "full_name": "bombshell-dev/clack",
-    "stargazers_count": 5345,
+    "stargazers_count": 5351,
     "open_issues_count": 73,
-    "forks_count": 88
+    "forks_count": 89
   },
   {
     "full_name": "Nutlope/restorePhotos",
-    "stargazers_count": 3794,
+    "stargazers_count": 3799,
     "open_issues_count": 15,
-    "forks_count": 579
+    "forks_count": 580
   },
   {
     "full_name": "styfle/links-awakening",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "shuding/react-wrap-balancer",
-    "stargazers_count": 3929,
+    "stargazers_count": 3933,
     "open_issues_count": 13,
     "forks_count": 67
   },
@@ -177,6 +177,6 @@
     "full_name": "natemoo-re/astro-icon",
     "stargazers_count": 1015,
     "open_issues_count": 36,
-    "forks_count": 56
+    "forks_count": 57
   }
 ]
